@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left"></h1>
 
 ###
 
-<p align="left">My name is Mouad</p>
+<p align="left"></p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
