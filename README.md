@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Mouad from Morocco<br><br>- 📚 I'm currently learning C</p>
+<p align="left">I'm Mouad, a passionate programmer and learner. <br><br>- 📚 Solving problems from the 42 School program, focusing on C programming</p>
 
 ###
 
@@ -30,9 +30,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
